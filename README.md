@@ -139,7 +139,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Blessman-Newton/Microverse_Hello/blob/features/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Blessman-Newton/Microverse_Hello/blob/features/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
