@@ -123,14 +123,14 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project...
+If you like this project please ⭐️⭐️⭐️ the Repo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank my Microverse colleagues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
